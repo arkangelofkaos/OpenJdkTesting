@@ -19,4 +19,5 @@ Notes:
 > When first running JTReg, it will create the folders it requires (JTreport and JTwork).
 
 Disclaimer:
-This project is for educational purposes only.
+This project is for educational purposes only. The JTReg binary distributed with this
+project is to be used as per instructions of the license (http://openjdk.java.net/legal/gplv2+ce.html).
