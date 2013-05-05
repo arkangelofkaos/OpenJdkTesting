@@ -1,11 +1,13 @@
 A seed project for writing OpenJDK tests using JTReg.
 
+Highly recommend you follow this tutorial:
+https://wikis.oracle.com/download/attachments/48201916/jtreg-tutorial.pdf
+
 JTReg can be downloaded here:
 http://download.java.net/openjdk/jtreg/
 
-More information on JTReg and a tutorial here:
+More information on JTReg here:
 http://openjdk.java.net/jtreg/
-https://wikis.oracle.com/download/attachments/48201916/jtreg-tutorial.pdf
 
 To begin with, you can download a Java 8 EA build from here:
 http://jdk8.java.net/download.html
