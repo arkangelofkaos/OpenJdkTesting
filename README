@@ -14,5 +14,9 @@ Once comfortable with JTReg, recommend you check out Adopt OpenJDK for instructi
 https://java.net/projects/adoptopenjdk/
 https://java.net/projects/adoptopenjdk/pages/YourOwnEnvironment
 
+Notes:
+> TEST.ROOT is a placeholder file used by the JTReg tool.
+> When first running JTReg, it will create the folders it requires (JTreport and JTwork).
+
 Disclaimer:
 This project is for educational purposes only.
